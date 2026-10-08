@@ -1,2 +1,3 @@
 # Exercicio-Observer
-<img width="911" height="1125" alt="image" src="https://github.com/user-attachments/assets/56f61a61-a406-4ec3-9d44-dd2c32b2bc71" />
+<img width="768" height="1112" alt="image" src="https://github.com/user-attachments/assets/34825a00-97d6-4f0b-b83e-324b4f93919f" />
+
